@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x   4 Joo  staff  128 Dec 17 17:32 .
+drwx------+ 12 Joo  staff  384 Dec 17 17:31 ..
+drwxr-xr-x   9 Joo  staff  288 Dec 17 17:31 .git
+-rw-r--r--   1 Joo  staff    0 Dec 17 17:32 result.txt
